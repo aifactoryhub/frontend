@@ -2,3 +2,5 @@ baseURL = "https://aifactoryhub.github.io"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "github-style"
+[params]
+  mainSections = ["tasks", "posts"]

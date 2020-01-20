@@ -3,4 +3,4 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "github-style"
 [params]
-  mainSections = ["tasks", "posts"]
+  mainSections = ["posts"]

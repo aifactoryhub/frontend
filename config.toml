@@ -1,6 +1,6 @@
-baseURL = "https://aifactoryhub.github.io"
+baseURL = "https://aifactoryhub.org"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "AIFactoryHub"
 theme = "github-style"
 [params]
   mainSections = ["posts"]

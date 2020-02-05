@@ -3,7 +3,7 @@ title: "딥러닝으로 은하 분류하기"
 date: 2020-01-19T23:57:38+09:00
 name: "딥러닝으로 은하 분류하기"
 type: "분류"
-provider: "AIFactory"
+provider: "users/dafit"
 dataset: "은하"
 model: "dafit"
 evaluation: "정확도"

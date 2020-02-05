@@ -3,7 +3,7 @@ title: "리뷰 데이터 감성 분석"
 date: 2020-01-19T23:57:38+09:00
 name: "리뷰 데이터 감성 분석"
 type: "단어 임베딩,mlp모델,분류"
-provider: "AIFactory"
+provider: "users/dafit"
 dataset: "리뷰 데이터"
 model: "dafit"
 evaluation: "정확도"

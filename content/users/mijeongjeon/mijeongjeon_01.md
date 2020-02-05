@@ -3,7 +3,7 @@ title: "iOS 모바일에서 한글 손글씨 인식하기 (with Keras)"
 date: 2020-01-19T23:57:38+09:00
 name: "iOS 모바일에서 한글 손글씨 인식하기 (with Keras)"
 type: "분류"
-provider: "AIFactory"
+provider: "users/mijeongjeon"
 dataset: "한글 손글씨 폰트"
 model: "전미정"
 evaluation: "정확도"
